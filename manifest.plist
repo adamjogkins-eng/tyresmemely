@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>PASTE_YOUR_DIRECT_IPA_LINK_HERE</string>
+                    <string>https://github.com/adamjogkins-eng/tyresmemely/releases/download/v1/Memely_1.0_1773620608.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>your.bundle.id</string>
+                <string>com.yourname.memely</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Your App Name</string>
+                <string>Memely</string>
             </dict>
         </dict>
     </array>
